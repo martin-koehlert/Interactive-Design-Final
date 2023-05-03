@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+.home {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+.work {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+.about {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+.contact {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"}
+
+.info {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 38%;
+	justify-content: center;
+	align-items: center;
+	padding: 20px;
+	
+}
+
+.logo {display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	padding: 50px 50px 50px 10px;
+	width: 50%;}
+
+body {align-content: center;
+	background-color:lightgray;
+	padding: 15px;
+	}
+
+li {list-style-type: none;
+	float: left;
+	}
+
+a {display: block;
+	padding: 8px;
+	color:black;
+	text-decoration: none;
+	}
+
+a:hover {
+  color:dimgray;
+}
+
+nav {display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: auto;
+	margin-bottom: auto;
+	width: 38%;
+	padding: 10px 50px 50px 50px;
+	}
+
+.row1 {display: flex;
+		justify-content:center;
+		align-items: center;
+		padding: 5px;
+		
+}
+
+.row2 {display: flex;
+		justify-content:center;
+		align-items: center;
+		padding: 5px
+}
+
+.row3 {display: flex;
+		justify-content:center;
+		align-items: center;
+		padding: 5px;
+	
+}
+
+
+
+
+
+
+
+
+
+		
